@@ -1,0 +1,9 @@
+<mvc:View xmlns:core="sap.ui.core" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:html="http://www.w3.org/1999/xhtml" controllerName="Sm10SmartTableSm10SmartTable.controller.Detalles">
+	<App id="app">
+		<Page title="Title Detalle" showNavButton="true" navButtonPress="onNavBack">
+			<content>
+				<Label text="Label {RecordId}" width="100%" id="__label0"/>
+			</content>
+		</Page>
+	</App>
+</mvc:View>

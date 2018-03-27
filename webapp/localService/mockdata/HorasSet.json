@@ -1,0 +1,191 @@
+[{
+	"RecordId": "b331923d-54e0-4945-8126-f11510cc5319",
+	"ZzobjectId": "ZzobjectId 1",
+	"ZzproySra": "ZzproySra 1",
+	"Zzusuario": "Zzusuario 1",
+	"ZzfImputacion": "/Date(1382817785000)/",
+	"Zzhora": "PT1H21M2S",
+	"ZzproyInt": "ZzproyInt 1",
+	"ZzcantHs": 2174.06,
+	"Zzdescripcion": "Zzdescripcion 1",
+	"Zzfecha": "/Date(1224100985000)/",
+	"Zzdesvio": true,
+	"ZzflagHe": false,
+	"ZzdesdeHe": "PT14H16M39S",
+	"ZzhastaHe": "PT3H21M47S",
+	"__metadata": {
+		"uri": "HorasSet(guid'b331923d-54e0-4945-8126-f11510cc5319')",
+		"type": "ZDDEL_SM10_SRV.Horas"
+	}
+}, {
+	"RecordId": "229c44e3-5658-47ba-bbb4-9031ab76d87b",
+	"ZzobjectId": "ZzobjectId 2",
+	"ZzproySra": "ZzproySra 2",
+	"Zzusuario": "Zzusuario 2",
+	"ZzfImputacion": "/Date(1178308985000)/",
+	"Zzhora": "PT0H43M36S",
+	"ZzproyInt": "ZzproyInt 2",
+	"ZzcantHs": 4869.79,
+	"Zzdescripcion": "Zzdescripcion 2",
+	"Zzfecha": "/Date(1018209785000)/",
+	"Zzdesvio": true,
+	"ZzflagHe": true,
+	"ZzdesdeHe": "PT8H37M4S",
+	"ZzhastaHe": "PT2H31M6S",
+	"__metadata": {
+		"uri": "HorasSet(guid'229c44e3-5658-47ba-bbb4-9031ab76d87b')",
+		"type": "ZDDEL_SM10_SRV.Horas"
+	}
+}, {
+	"RecordId": "9dc5c51c-6c38-495f-910d-851e197a202b",
+	"ZzobjectId": "ZzobjectId 3",
+	"ZzproySra": "ZzproySra 3",
+	"Zzusuario": "Zzusuario 3",
+	"ZzfImputacion": "/Date(1121716985000)/",
+	"Zzhora": "PT11H10M56S",
+	"ZzproyInt": "ZzproyInt 3",
+	"ZzcantHs": 3007.06,
+	"Zzdescripcion": "Zzdescripcion 3",
+	"Zzfecha": "/Date(1200427385000)/",
+	"Zzdesvio": true,
+	"ZzflagHe": false,
+	"ZzdesdeHe": "PT17H4M7S",
+	"ZzhastaHe": "PT20H44M26S",
+	"__metadata": {
+		"uri": "HorasSet(guid'9dc5c51c-6c38-495f-910d-851e197a202b')",
+		"type": "ZDDEL_SM10_SRV.Horas"
+	}
+}, {
+	"RecordId": "aa0bad29-e140-4bb3-81bb-ab05e8fc9221",
+	"ZzobjectId": "ZzobjectId 4",
+	"ZzproySra": "ZzproySra 4",
+	"Zzusuario": "Zzusuario 4",
+	"ZzfImputacion": "/Date(1501272185000)/",
+	"Zzhora": "PT7H23M38S",
+	"ZzproyInt": "ZzproyInt 4",
+	"ZzcantHs": 8013.54,
+	"Zzdescripcion": "Zzdescripcion 4",
+	"Zzfecha": "/Date(985291385000)/",
+	"Zzdesvio": false,
+	"ZzflagHe": true,
+	"ZzdesdeHe": "PT21H54M16S",
+	"ZzhastaHe": "PT15H20M49S",
+	"__metadata": {
+		"uri": "HorasSet(guid'aa0bad29-e140-4bb3-81bb-ab05e8fc9221')",
+		"type": "ZDDEL_SM10_SRV.Horas"
+	}
+}, {
+	"RecordId": "77e5016d-64f7-49c1-80b4-d6185923305c",
+	"ZzobjectId": "ZzobjectId 5",
+	"ZzproySra": "ZzproySra 5",
+	"Zzusuario": "Zzusuario 5",
+	"ZzfImputacion": "/Date(1001448185000)/",
+	"Zzhora": "PT21H46M24S",
+	"ZzproyInt": "ZzproyInt 5",
+	"ZzcantHs": 4204.26,
+	"Zzdescripcion": "Zzdescripcion 5",
+	"Zzfecha": "/Date(1379102585000)/",
+	"Zzdesvio": true,
+	"ZzflagHe": false,
+	"ZzdesdeHe": "PT6H26M35S",
+	"ZzhastaHe": "PT9H17M12S",
+	"__metadata": {
+		"uri": "HorasSet(guid'77e5016d-64f7-49c1-80b4-d6185923305c')",
+		"type": "ZDDEL_SM10_SRV.Horas"
+	}
+}, {
+	"RecordId": "7bff9bbc-8510-4775-b216-dbcb14121757",
+	"ZzobjectId": "ZzobjectId 6",
+	"ZzproySra": "ZzproySra 6",
+	"Zzusuario": "Zzusuario 6",
+	"ZzfImputacion": "/Date(1345233785000)/",
+	"Zzhora": "PT1H19M3S",
+	"ZzproyInt": "ZzproyInt 6",
+	"ZzcantHs": 7943.68,
+	"Zzdescripcion": "Zzdescripcion 6",
+	"Zzfecha": "/Date(960235385000)/",
+	"Zzdesvio": false,
+	"ZzflagHe": true,
+	"ZzdesdeHe": "PT15H22M40S",
+	"ZzhastaHe": "PT14H42M41S",
+	"__metadata": {
+		"uri": "HorasSet(guid'7bff9bbc-8510-4775-b216-dbcb14121757')",
+		"type": "ZDDEL_SM10_SRV.Horas"
+	}
+}, {
+	"RecordId": "06984516-adbb-46e2-ba8d-87e3a040c0c6",
+	"ZzobjectId": "ZzobjectId 7",
+	"ZzproySra": "ZzproySra 7",
+	"Zzusuario": "Zzusuario 7",
+	"ZzfImputacion": "/Date(1180728185000)/",
+	"Zzhora": "PT6H37M1S",
+	"ZzproyInt": "ZzproyInt 7",
+	"ZzcantHs": 8725.55,
+	"Zzdescripcion": "Zzdescripcion 7",
+	"Zzfecha": "/Date(1270238585000)/",
+	"Zzdesvio": true,
+	"ZzflagHe": true,
+	"ZzdesdeHe": "PT19H4M42S",
+	"ZzhastaHe": "PT7H49M49S",
+	"__metadata": {
+		"uri": "HorasSet(guid'06984516-adbb-46e2-ba8d-87e3a040c0c6')",
+		"type": "ZDDEL_SM10_SRV.Horas"
+	}
+}, {
+	"RecordId": "6b3aea78-3dd7-4ee4-9695-5a916d2d8f1d",
+	"ZzobjectId": "ZzobjectId 8",
+	"ZzproySra": "ZzproySra 8",
+	"Zzusuario": "Zzusuario 8",
+	"ZzfImputacion": "/Date(1203624185000)/",
+	"Zzhora": "PT21H43M2S",
+	"ZzproyInt": "ZzproyInt 8",
+	"ZzcantHs": 6768.02,
+	"Zzdescripcion": "Zzdescripcion 8",
+	"Zzfecha": "/Date(1072641785000)/",
+	"Zzdesvio": true,
+	"ZzflagHe": false,
+	"ZzdesdeHe": "PT1H28M6S",
+	"ZzhastaHe": "PT8H16M2S",
+	"__metadata": {
+		"uri": "HorasSet(guid'6b3aea78-3dd7-4ee4-9695-5a916d2d8f1d')",
+		"type": "ZDDEL_SM10_SRV.Horas"
+	}
+}, {
+	"RecordId": "8baf0d7a-8cc6-429f-8eb2-cc82a3cee11c",
+	"ZzobjectId": "ZzobjectId 9",
+	"ZzproySra": "ZzproySra 9",
+	"Zzusuario": "Zzusuario 9",
+	"ZzfImputacion": "/Date(1089316985000)/",
+	"Zzhora": "PT16H50M48S",
+	"ZzproyInt": "ZzproyInt 9",
+	"ZzcantHs": 7285.8,
+	"Zzdescripcion": "Zzdescripcion 9",
+	"Zzfecha": "/Date(1210017785000)/",
+	"Zzdesvio": false,
+	"ZzflagHe": true,
+	"ZzdesdeHe": "PT7H8M27S",
+	"ZzhastaHe": "PT14H30M35S",
+	"__metadata": {
+		"uri": "HorasSet(guid'8baf0d7a-8cc6-429f-8eb2-cc82a3cee11c')",
+		"type": "ZDDEL_SM10_SRV.Horas"
+	}
+}, {
+	"RecordId": "55c6afc1-1a70-4b2e-be26-d299dd722535",
+	"ZzobjectId": "ZzobjectId 10",
+	"ZzproySra": "ZzproySra 10",
+	"Zzusuario": "Zzusuario 10",
+	"ZzfImputacion": "/Date(1445803385000)/",
+	"Zzhora": "PT2H31M43S",
+	"ZzproyInt": "ZzproyInt 10",
+	"ZzcantHs": 6110.37,
+	"Zzdescripcion": "Zzdescripcion 10",
+	"Zzfecha": "/Date(1189368185000)/",
+	"Zzdesvio": false,
+	"ZzflagHe": true,
+	"ZzdesdeHe": "PT17H58M52S",
+	"ZzhastaHe": "PT6H49M36S",
+	"__metadata": {
+		"uri": "HorasSet(guid'55c6afc1-1a70-4b2e-be26-d299dd722535')",
+		"type": "ZDDEL_SM10_SRV.Horas"
+	}
+}]

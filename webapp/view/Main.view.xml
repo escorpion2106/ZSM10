@@ -1,0 +1,19 @@
+<mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
+	xmlns:smartFilterBar="sap.ui.comp.smartfilterbar" xmlns:smartTable="sap.ui.comp.smarttable"
+	controllerName="Sm10SmartTableSm10SmartTable.controller.Main">
+	<App id="app">
+		<Page title="Un Title" showNavButton="true" navButtonPress="onNavBack">
+			<content>
+				<smartFilterBar:SmartFilterBar id="smartFilterBar" entityType="Horas">
+					<smartFilterBar:controlConfiguration>
+						<smartFilterBar:ControlConfiguration key="RecordId" visibleInAdvancedArea="true" preventInitialDataFetchInValueHelpDialog="true"/>
+					</smartFilterBar:controlConfiguration>
+				</smartFilterBar:SmartFilterBar>
+				<smartTable:SmartTable id="SmartTable" smartFilterId="smartFilterBar" tableType="ResponsiveTable" editable="false" entitySet="HorasSet"
+					useVariantManagement="false" header="Titulosss" showRowCount="true" useExportToExcel="false" enableAutoBinding="true">
+					<Table mode="SingleSelectMaster" selectionChange="click"></Table>
+				</smartTable:SmartTable>
+			</content>
+		</Page>
+	</App>
+</mvc:View>
