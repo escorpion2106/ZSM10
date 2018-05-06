@@ -1,16 +1,29 @@
-<mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m"
-	xmlns:smartFilterBar="sap.ui.comp.smartfilterbar" xmlns:smartTable="sap.ui.comp.smarttable"
-	controllerName="Sm10SmartTableSm10SmartTable.controller.Main">
+<mvc:View xmlns:html="http://www.w3.org/1999/xhtml" xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" xmlns:smartTable="sap.ui.comp.smarttable"
+	xmlns:fb="sap.ui.comp.filterbar" controllerName="Sm10SmartTableSm10SmartTable.controller.Main">
 	<App id="app">
 		<Page title="Un Title" showNavButton="true" navButtonPress="onNavBack">
 			<content>
-				<smartFilterBar:SmartFilterBar id="smartFilterBar" entityType="Horas">
-					<smartFilterBar:controlConfiguration>
-						<smartFilterBar:ControlConfiguration key="RecordId" visibleInAdvancedArea="true" preventInitialDataFetchInValueHelpDialog="true"/>
-					</smartFilterBar:controlConfiguration>
-				</smartFilterBar:SmartFilterBar>
-				<smartTable:SmartTable id="SmartTable" smartFilterId="smartFilterBar" tableType="ResponsiveTable" editable="false" entitySet="HorasSet"
-					useVariantManagement="false" header="Titulosss" showRowCount="true" useExportToExcel="false" enableAutoBinding="true">
+				<fb:FilterBar reset="onReset" search="onSearch" useToolbar="false" showGoButton="true" showFilterConfiguration="false">
+					<fb:filterItems>
+						<fb:FilterItem name="A" label="ZzobjectId">
+							<fb:control>
+								<Input id="i1" change="onSelectChange"></Input>
+							</fb:control>
+						</fb:FilterItem>
+						<fb:FilterItem name="B" label=" ZzproySra">
+							<fb:control>
+								<Input id="i2" change="onSelectChange"></Input>
+							</fb:control>
+						</fb:FilterItem>
+						<fb:FilterItem name="C" label="Zzusuario">
+							<fb:control>
+								<Input id="i3" change="onSelectChange"></Input>
+							</fb:control>
+						</fb:FilterItem>
+					</fb:filterItems>
+				</fb:FilterBar>
+				<smartTable:SmartTable id="SmartTable" tableType="ResponsiveTable" editable="false" entitySet="HorasSet" useVariantManagement="false"
+					header="Titulosss" showRowCount="true" useExportToExcel="false" enableAutoBinding="true">
 					<Table mode="SingleSelectMaster" selectionChange="click"></Table>
 				</smartTable:SmartTable>
 			</content>
